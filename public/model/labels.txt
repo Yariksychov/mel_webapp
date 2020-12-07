@@ -1,0 +1,2 @@
+Melanoma_positive
+Not Melanoma
